@@ -21,7 +21,7 @@ Note : This project is for educational purposes only, and the predicted prices s
 Installation
 To run the Car Price Prediction Streamlit App on your local machine, follow these steps:
 
-Clone this repository to your local machine using the following command:[git clone https://github.com/06Neel/Data-Science-Capstone-Project.git](https://github.com/raju98610/CAR-DETAILS/edit/main/README.md)
+Clone this repository to your local machine using the following command:https://github.com/raju98610/CAR-DETAILS/edit/main/README.md
 
 Navigate to the project directory:cd car-price-prediction-streamlit
 
